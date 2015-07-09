@@ -1,4 +1,4 @@
-﻿Build started 7/7/2015 1:58:42 AM.
+﻿Build started 7/8/2015 11:02:43 AM.
      1>Project "C:\Users\Khare\Documents\Coding\Visual Studio CPP\SFML_Test\SFML_Test\SFML_Test.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
@@ -15,4 +15,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:04.25
+Time Elapsed 00:00:07.58
